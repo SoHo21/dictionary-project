@@ -4,6 +4,10 @@
   font-weight: bold;
 }
 
+.Meaning hr {
+  color: rgb(132, 95, 95);
+}
+
 .Meaning .example {
   opacity: 0.5;
   font-style: italic;
